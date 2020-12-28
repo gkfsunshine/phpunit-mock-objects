@@ -1,5 +1,5 @@
 {
-    "name": "phpunit/phpunit-mock-objects",
+    "name": "megao-phpunit/phpunit-mock-objects",
     "description": "Mock Object library for PHPUnit",
     "type": "library",
     "keywords": [
